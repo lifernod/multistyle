@@ -1,0 +1,4 @@
+<colors>
+    <hello>#FFFFFF</hello>
+    <banan-color>#GGGBBB</banan-color>
+</colors>
