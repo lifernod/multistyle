@@ -4,13 +4,13 @@ import java.util.Collections;
 import java.util.List;
 
 public abstract class TokenBlockBase<T> {
-    public int startPosition;
-    public int endPosition;
+    public final int startPosition;
+    public final int endPosition;
 
-    public int count;
-    public TokenType itemsType;
+    public final int count;
+    public final TokenType itemsType;
 
-    public List<T> items;
+    public final List<T> items;
 
     public TokenBlockBase(int startPosition, int endPosition, TokenType itemsType, List<T> items) {
         this.startPosition = startPosition;

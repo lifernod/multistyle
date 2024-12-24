@@ -8,10 +8,4 @@ public class ColorItem extends TokenBase {
     public ColorItem(int line, String name, String raw) {
         super(line, name, raw, TokenType.ColorItem);
     }
-
-
-    @Override
-    public void parseString(String string) {
-
-    }
 }
