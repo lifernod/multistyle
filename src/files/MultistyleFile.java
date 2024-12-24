@@ -85,7 +85,6 @@ public class MultistyleFile {
             }
         }
         this.tokens = tokens;
-        return tokens;
     }
 
     public void outputFile(OutputMode mode) throws IOException {

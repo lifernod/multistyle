@@ -1,4 +1,4 @@
 <colors>
-    <hello>#FFFFFF</hello>
-    <banan-color>#GGGBBB</banan-color>
+    <hello>#AAAAAA</hello>
+    <world>#BBBBBB</world>
 </colors>
